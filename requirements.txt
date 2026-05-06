@@ -1,0 +1,4 @@
+hume[microphone]
+google-genai
+anthropic
+python-dotenv
